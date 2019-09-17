@@ -1,6 +1,7 @@
 @font-face {
   font-family: "SDMiSaeng";
-  src: local("Sandoll 미생"), url("./SDMiSaeng.woff2") format("woff2"),
-    url("./SDMiSaeng.woff") format("woff"),
-    url("./SDMiSaeng.ttf") format("truetype");
+  src: local("Sandoll 미생"),
+    url("../font/SDMiSaeng/SDMiSaeng.woff2") format("woff2"),
+    url("../font/SDMiSaeng/SDMiSaeng.woff") format("woff"),
+    url("../font/SDMiSaeng/SDMiSaeng.ttf") format("truetype");
 }
