@@ -10,11 +10,11 @@ SDMiSaeng.css
 SpoqaHanSans.css  
 `https://cdn.jsdelivr.net/gh/cherry9689/fonts@1.0/css/SpoqaHanSans.css`
 
-SDMiSaeng.woff2
+SDMiSaeng.woff2  
 `https://cdn.jsdelivr.net/gh/cherry9689/fonts@1.0/font/SDMiSaeng/SDMiSaeng.woff2`
 
-SDMiSaeng.woff
+SDMiSaeng.woff  
 `https://cdn.jsdelivr.net/gh/cherry9689/fonts@1.0/font/SDMiSaeng/SDMiSaeng.woff`
 
-SDMiSaeng.ttf
+SDMiSaeng.ttf  
 `https://cdn.jsdelivr.net/gh/cherry9689/fonts@1.0/font/SDMiSaeng/SDMiSaeng.ttf`
