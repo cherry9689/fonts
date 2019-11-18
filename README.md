@@ -13,5 +13,5 @@ SDMiSaeng.css
 SpoqaHanSans.css  
 `https://cdn.jsdelivr.net/gh/cherry9689/fonts@2.0/css/SpoqaHanSans.css`
 
-NanumSquare.css
+NanumSquare.css  
 `https://cdn.jsdelivr.net/gh/cherry9689/fonts@2.0/css/NanumSquare.css`
