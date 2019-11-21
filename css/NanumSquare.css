@@ -1,7 +1,7 @@
 @font-face {
   font-family: "NanumSquare";
   font-weight: 800;
-  src: local("나눔스퀘어_ac ExtraBold"),
+  src: local("나눔스퀘어 ExtraBold"),
     url("../font/NanumSquare/NanumSquare_Extra_Bold.woff2") format("woff2"),
     url("../font/NanumSquare/NanumSquare_Extra_Bold.woff") format("woff"),
     url("../font/NanumSquare/NanumSquare_Extra_Bold.ttf") format("truetype");
@@ -10,7 +10,7 @@
 @font-face {
   font-family: "NanumSquare";
   font-weight: 700;
-  src: local("나눔스퀘어_ac Bold"),
+  src: local("나눔스퀘어 Bold"),
     url("../font/NanumSquare/NanumSquare_Bold.ttf") format("woff2"),
     url("../font/NanumSquare/NanumSquare_Bold.woff") format("woff"),
     url("../font/NanumSquare/NanumSquare_Bold.ttf") format("truetype");
@@ -19,7 +19,7 @@
 @font-face {
   font-family: "NanumSquare";
   font-weight: 400;
-  src: local("나눔스퀘어_ac Regular"),
+  src: local("나눔스퀘어"),
     url("../font/NanumSquare/NanumSquare_Regular.woff2") format("woff2"),
     url("../font/NanumSquare/NanumSquare_Regular.woff") format("woff"),
     url("../font/NanumSquare/NanumSquare_Regular.ttf") format("truetype");
@@ -28,7 +28,7 @@
 @font-face {
   font-family: "NanumSquare";
   font-weight: 300;
-  src: local("나눔스퀘어_ac Light"),
+  src: local("나눔스퀘어 Light"),
     url("../font/NanumSquare/NanumSquare_Light.woff2") format("woff2"),
     url("../font/NanumSquare/NanumSquare_Light..woff") format("woff"),
     url("../font/NanumSquare/NanumSquare_Light..ttf") format("truetype");
