@@ -11,7 +11,7 @@
   font-family: "NanumSquare";
   font-weight: 700;
   src: local("나눔스퀘어 Bold"),
-    url("../font/NanumSquare/NanumSquare_Bold.ttf") format("woff2"),
+    url("../font/NanumSquare/NanumSquare_Bold.woff2") format("woff2"),
     url("../font/NanumSquare/NanumSquare_Bold.woff") format("woff"),
     url("../font/NanumSquare/NanumSquare_Bold.ttf") format("truetype");
 }
@@ -30,6 +30,6 @@
   font-weight: 300;
   src: local("나눔스퀘어 Light"),
     url("../font/NanumSquare/NanumSquare_Light.woff2") format("woff2"),
-    url("../font/NanumSquare/NanumSquare_Light..woff") format("woff"),
-    url("../font/NanumSquare/NanumSquare_Light..ttf") format("truetype");
+    url("../font/NanumSquare/NanumSquare_Light.woff") format("woff"),
+    url("../font/NanumSquare/NanumSquare_Light.ttf") format("truetype");
 }
