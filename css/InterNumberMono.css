@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "InterNumberMono";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../font/InterNumberMono/InterNumberMono-Regular.woff2")
+      format("woff2"),
+    url("../font/InterNumberMono/InterNumberMono-Regular.woff") format("woff"),
+    url("../font/InterNumberMono/InterNumberMono-Regular.ttf")
+      format("truetype");
+}
